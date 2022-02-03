@@ -1,0 +1,116 @@
+question_id, question
+1, What is testing?
+2, What is software quality?
+3, What is the difference between functional testing and non-functional testing?
+4, What is meant by verification and validation?
+5, What is the difference between load testing and stress testing?
+6, What are some different kinds of testing, and when should you use them?
+7, Can you describe the differences between negative and positive testing?
+8, What is the difference between quality assurance, quality control, and testing?
+9, Can you explain the Software Development Life Cycle, and how testing fits in?
+10, When do you think QA activities should start?
+11, What is a good test case?
+12, How do you define the format of writing a good test case?
+13, Have you used any automation tools?
+14, What is the difference between severity and priority?
+15, What is the difference between Assert and Verify commands in test automation?
+16, What is a use case?
+17, What is a test plan?
+18, What does a test plan include?
+19, What is a test strategy?
+20, Are test plans and test strategies the same?
+21, What is testware?
+22, What is a bug?
+23, Can you explain the basic steps of the bug cycle?
+24, What is Agile testing?
+25, Can you describe the difference between Scrum and Agile?
+26, How relevant is manual testing in an automated workflow?
+27, What levels of testing do you know?
+28, What are the phases involved in Software Testing Life Cycle?
+29, What are the different levels of testing?
+30, Explain Bug Life Cycle or Defect life cycle.
+31, What is usability testing?
+32, What are the categories of defects?
+33, On what basis the acceptance plan is prepared?
+34, What is SDLC?
+35, Why is Software Testing Important?
+36, What are the benefits of Software Testing?
+37, Testing principles.
+38, What is quality control?
+39, What is quality assurance?
+40, How the testing could be classified
+41, What is integration testing? What kinds of it do you know?
+42, What is changes related testing?
+43, What non-functional testing types do you know?
+44, What is performance testing? What subtypes do you know?
+45, What \'by code execution\' testing types do you know?
+46, What are the testing types classified by access to the application code?
+47, Testing types classified by level of automation
+48, Positivity classified testing types
+49, Importance classified testing types
+50, Changes classified testing types
+51, Testing types classified by plot execution
+52, Waterfall development model
+53, Iterative development model
+54, Spiral development model
+55, V-Model of development
+56, Agile development model
+57, What is the difference between check list and test case?
+58, What is the difference between test case and bug report?
+59, What are the base and extended bug report components?
+60, What is test design?
+61, What test design techniques do you know?
+62, Equivalent Class Partitioning.
+63, Boundary Value Analysis.
+64, State-transition testing
+65, Pairwise testing
+66, Error guessing
+67, Client-server architecture
+68, What is the difference between website and web application?
+69, What is web server?
+70, What does request/response consist of?
+80, What OSI model stands for? How is it different from TCP/IP?
+81, What is HTTP Which net model level's this protocol is?
+82, How many levels in OSI model? Name them.
+83, Choose any OSI or TCP/IP level (or all of them) and describe.
+84, Name the major http methods
+85, How are the http and https different?
+86, Http response status codes classification. Explain some of the most common
+87, Http 1.1 and http 2.0 difference
+88, What is URL? What it consists of?
+89, What is IP? Subnet Mask? Subnet address? Gateway?
+90, Dynamic/Static IP-address? Mac-port?
+91, What is DNS server? Network ports?
+92, What are devtools used for? Elements panel, Console, Network.
+93, Name all the devtools panels and their purpose in terms of testing.
+94, What are HTML and CSS?
+95, Name as much web-form elements as you possibly can.
+96, What is SOAP? What is XSD? What is XML? What is WSDL?
+97, What is REST? RESTFUL? What is JSON?
+98, What does the CRUD stand for? What is idempotency?
+99, What is the difference between GET and POST methods?
+100, What is Data Base? What types do you know?
+101, What is normalisation?
+102, What is DBMS? What is it used for?
+103, What is Proxy/VPN? What is the difference?
+104, Name and describe the types of mobile applications
+105, What is guidelines? What do you know about them?
+106, How do you test the mobile apps?
+107, Why the requirements need to be tested? How do you test it?
+108, What levels of requirements do you know? Describe each.
+109, Name the properties of good requirements.
+110, What is Agile? What is Agile Manifesto?
+111, What is Scrum? Name and describe it's components.
+112, What is bash? Name the main (in testing terms) Linux commands.
+113, How do you insert any text to the file through bash terminal?
+114, What the relativeness in databases is all about? Why do we need it? How do we achieve it?
+115, What is API? How do you test it? What do you test?
+116, What is CI/CD? Why do you need it?
+117, What is VCS-systems? Why do we need it?
+118, What is ssh-key? Why do you use it?
+119, What can you do using proxy? How is it better than Devtools' solution?
+120, 
+121, 
+122, 
+123, 
+124, 
