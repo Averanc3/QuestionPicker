@@ -2,8 +2,7 @@ import csv
 import random
 
 
-l = 'y'
-while l == 'y':
+while True:
     x = int(input('Number of questions printed: '))
     if x <= 0:
         print('Go perform your testing stuff somewhere else')
@@ -20,3 +19,7 @@ while l == 'y':
 
             print('Q',z[0],':',z[1],'\n ')
     l = input('More questions? (y/n): ')
+    if l == 'n':
+        break
+    elif l == 'y':
+        continue

@@ -6,7 +6,7 @@ question_id, question
 5, What is the difference between load testing and stress testing?
 6, What are some different kinds of testing, and when should you use them?
 7, Can you describe the differences between negative and positive testing?
-8, What is the difference between quality assurance, quality control, and testing?
+8, What is the difference between quality assurance/ quality control and testing?
 9, Can you explain the Software Development Life Cycle, and how testing fits in?
 10, When do you think QA activities should start?
 11, What is a good test case?
@@ -109,7 +109,7 @@ question_id, question
 117, What is VCS-systems? Why do we need it?
 118, What is ssh-key? Why do you use it?
 119, What can you do using proxy? How is it better than Devtools' solution?
-120, 
+120, What is websocket?
 121, 
 122, 
 123, 
