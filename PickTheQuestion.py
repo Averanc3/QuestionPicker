@@ -19,7 +19,7 @@ while True:
 
             print('Q',z[0],':',z[1],'\n ')
     l = input('More questions? (y/n): ')
-    if l == 'n':
-        break
-    elif l == 'y':
+    if l == 'y':
         continue
+    else:
+        break
